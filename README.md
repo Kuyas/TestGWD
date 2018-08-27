@@ -1,3 +1,3 @@
 # TestGWD
 
-Trying out GWD
+Trying out Google Web Designer
